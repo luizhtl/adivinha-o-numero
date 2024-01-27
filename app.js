@@ -1,4 +1,4 @@
-// && =e  ||=ou    !(a==b) se a nao for igual a b
+
 alert("boas vindas ao jogo numero secreto");
 let numeroMaximo = 5000
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
